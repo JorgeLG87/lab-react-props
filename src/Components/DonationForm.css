@@ -1,0 +1,37 @@
+/* .form-container {
+    display: flex;
+    margin-top: 100px;
+    margin-bottom: 100px;
+} */
+
+.name-input {
+    margin-top: -10px;
+    display: flex;
+    height: 20px;
+}
+
+.caption {
+    margin-bottom: 150px;
+}
+
+label {
+    display: block;
+    margin-top: 10px;
+}
+
+.amount {
+    display: block;
+    margin-top: -140px;
+}
+
+.amount-input {
+    display: block;
+    margin-top: 10px;
+}
+
+.donate {
+    margin-top: 20px;
+    height: 33px;
+    width: 80px;
+    background-color: #2f9c95;
+}
